@@ -1,9 +1,9 @@
-<h1 align="center">E2E Test Practice With Cypress</h1>
-<p align="center">
+<h1>E2E Test Practice With Cypress</h1>
+<p>
   Practical project for automated end-to-end (E2E) testing using <strong>Cypress</strong>.
 </p>
 <p>
-  This README is also available in <a href="./README.pt-br.md">Portuguese</a>.
+  Este README também está disponível em <a href="./README.pt-br.md">Português</a>
 </p>
 <h2>📋 Project Overview</h2>
 <p>
